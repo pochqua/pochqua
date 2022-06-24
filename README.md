@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pochqua
 - 👀 I’m interested in physics, math and computer science.
 - 🌱 I’m currently learning a lot.
-- 💞️ I’m looking to collaborate with @redguy
+- 💞️ I’m looking to collaborate with @redguys
 - 📫 How to reach me? p.lepestrinni@gmail.com
 
 <!---
